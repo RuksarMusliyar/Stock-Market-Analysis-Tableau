@@ -18,7 +18,7 @@ The objective includes identifying patterns in stock price movements, evaluating
 Given historical stock price data for Apple (AAPL), Microsoft (MSFT), Netflix (NFLX), and Google (GOOG) over a three-month period, the task is to analyze and compare the performance of these companies using data analysis techniques.
 
 The analysis includes:
-- Identifying trends and patterns in stock prices
+- Identifying trends and patterns in stock price movements and evaluate their market implications
 - Calculating moving averages
 - Measuring volatility of each stock
 - Performing correlation analysis to understand relationships between stocks
@@ -80,7 +80,7 @@ For correlation analysis:
 - 📈 NFLX is the most volatile stock (18.55), indicating higher investment risk
 - 📉 GOOG is the least volatile stock (6.28), indicating more price stability
 - 💹 AAPL has the highest average trading volume (60.28M shares/day)
-- 🔗 AAPL, MSFT & GOOG are highly correlated — they move together (big-tech effect)
+- 🔗 AAPL, MSFT & GOOG move together, showing strong positive correlation.
 - 🎯 NFLX behaves independently from other stocks — useful for portfolio diversification
 - 📊 All stocks showed an upward trend during the Feb–May 2023 period
 

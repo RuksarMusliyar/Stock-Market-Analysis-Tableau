@@ -106,4 +106,4 @@ The dashboard provides insights into stock performance using trend analysis, vol
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Tableau Dashboard_Preview.png)
+![Dashboard Preview](Tableau_Dashboard_Preview.png)
